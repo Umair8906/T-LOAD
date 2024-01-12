@@ -25,7 +25,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/noob-hackers/T-LOAD`
+* ` git clone https://github.com/Umair8906/T-LOAD`
 * `cd $HOME`
 * `ls`
 * `cd T-LOAD`
